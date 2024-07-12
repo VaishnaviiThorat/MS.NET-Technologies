@@ -1,0 +1,14 @@
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\bin\Debug\net8.0\Delegates_Class.exe
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\bin\Debug\net8.0\Delegates_Class.deps.json
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\bin\Debug\net8.0\Delegates_Class.runtimeconfig.json
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\bin\Debug\net8.0\Delegates_Class.dll
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\bin\Debug\net8.0\Delegates_Class.pdb
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.AssemblyInfoInputs.cache
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.AssemblyInfo.cs
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.csproj.CoreCompileInputs.cache
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.dll
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\refint\Delegates_Class.dll
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.pdb
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\Delegates_Class.genruntimeconfig.cache
+E:\CDAC\M8 MS.Net Technologies\Lecture_Codes\Day4\Delegates_Class\obj\Debug\net8.0\ref\Delegates_Class.dll
